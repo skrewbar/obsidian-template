@@ -1,6 +1,12 @@
-# 내가 쓰려고 만든 템플릿
+# 내가 쓰려고 만든 Obsidian 템플릿
 
-###### 핑크색 이뻐요
+테마: Border
+
+커뮤니티 플러그인:
+
+- Folder notes
+- Iconize
+- Style Settings
 
 폰트:
 
@@ -11,7 +17,7 @@
 
 - 맞춤법 검사: 꺼짐
 - 파일 삭제 메시지: 꺼짐
-- 휴지통: obsidian 휴지통
+- 휴지통: Obsidian 휴지통
 
 단축키:
 

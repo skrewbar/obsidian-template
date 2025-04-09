@@ -1,17 +1,16 @@
 {
-  "app:toggle-left-sidebar": [
+  "editor:save-file": [],
+  "app:toggle-right-sidebar": [
     {
       "modifiers": [
-        "Mod",
-        "Shift"
+        "Alt"
       ],
       "key": "S"
     }
   ],
-  "app:toggle-right-sidebar": [
+  "app:toggle-left-sidebar": [
     {
       "modifiers": [
-        "Alt",
         "Mod"
       ],
       "key": "S"

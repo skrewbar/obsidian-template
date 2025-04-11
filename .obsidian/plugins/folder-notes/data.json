@@ -90,5 +90,5 @@
   "hideCollapsingIcon": false,
   "tabManagerEnabled": true,
   "ignoreAttachmentFolder": true,
-  "deleteFilesAction": "trash"
+  "deleteFilesAction": "obsidianTrash"
 }

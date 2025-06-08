@@ -18,5 +18,5 @@
 - 휴지통: Obsidian 휴지통
 
 단축키:
-- 왼쪽 사이드바: Ctrl + S
-- 오른쪽 사이드바: Alt + S
+- 왼쪽 사이드바: Ctrl + S / Cmd + S
+- 오른쪽 사이드바: Alt + S / Opt + S

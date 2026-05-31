@@ -4,7 +4,6 @@
 
 커뮤니티 플러그인:
 - Folder notes
-- Iconize
 - Style Settings
 
 폰트:

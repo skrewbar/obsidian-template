@@ -5,6 +5,5 @@
   "Appearance-dark@@theme-dark-style-select": "theme-dark-background-default",
   "Appearance-dark@@accent-color-override-dark": true,
   "Appearance-light@@accent-color-override-light": true,
-  "Components@@file-icon-remove": true,
   "Appearance-light@@accent-light": "#F5A3A3"
 }
